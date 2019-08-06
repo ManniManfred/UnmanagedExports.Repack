@@ -26,8 +26,8 @@
   </metadata>
   <files>
 		<file src="build\**" target="build" />
-		<file src="lib\RGiesecke.DllExport.Metadata.dll" target="lib\net452" />
-        <file src="lib\RGiesecke.DllExport.Metadata.dll" target="lib\netstandard20" />
+		<file src="lib\RGiesecke.DllExport.Metadata.dll" target="lib\net35" />
+		<file src="lib\RGiesecke.DllExport.Metadata.dll" target="lib\netstandard20" />
 		<file src="tasks\**" target="tasks" />
 	</files>
 </package>
